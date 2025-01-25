@@ -72,8 +72,10 @@
 
 </div>
 
+## 💻 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsuchi23&layout=compact&theme=radical" alt="Top Languages"/>
+
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=katsuchi23&show_icons=true&theme=radical" alt="katsuchi23's GitHub stats"/>
 
-## 💻 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsuchi23&layout=compact&theme=radical" alt="Top Languages"/>
+
