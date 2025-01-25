@@ -70,6 +70,8 @@
 <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
 </p>
 
+</div>
+
 ## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=katsuchi23&show_icons=true&theme=radical" alt="katsuchi23's GitHub stats"/>
@@ -79,5 +81,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsuchi23&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
-</div>
