@@ -18,17 +18,19 @@
 <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
 <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=hugginface&logoColor=black" alt="Hugging Face"/></a>
 <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/></a>
-<a href="https://www.fast.ai/"><img src="https://img.shields.io/badge/FastAI-00AEFF?style=for-the-badge" alt="FastAI"/></a>
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3B54?style=for-the-badge" alt="LangChain"/></a>
 <a href="https://onnx.ai/"><img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/></a>
 <a href="https://ollama.ai/"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama"/></a>
 </p>
 
-### Vision-Language Models
+### Vision-Language & Computer-Vision Model
 <p align="center">
 <a href="https://openai.com/research/clip"><img src="https://img.shields.io/badge/CLIP-10A0CC?style=for-the-badge" alt="CLIP"/></a>
 <a href="https://github.com/facebookresearch/dino"><img src="https://img.shields.io/badge/DINO-4285F4?style=for-the-badge" alt="DINO"/></a>
 <a href="https://github.com/salesforce/BLIP"><img src="https://img.shields.io/badge/BLIP-FF6F61?style=for-the-badge" alt="BLIP"/></a>
 <a href="https://segment-anything.com/"><img src="https://img.shields.io/badge/Segment%20Anything-00A86B?style=for-the-badge" alt="SAM"/></a>
+<a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
+<a href="https://ultralytics.com/yolo"><img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge" alt="YOLO"/></a>
 </p>
 
 ### Data Science Tools
