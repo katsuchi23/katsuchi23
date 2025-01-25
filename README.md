@@ -16,44 +16,28 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katsuchi23&layout=compact&theme=radical)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tech Stack</title>
-    <style>
-        .tech-stack {
-            text-align: center;
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="tech-stack">
-        <h2>💻 Tech Stack</h2>
+<p align="center">
+  <h2>💻 Tech Stack</h2>
 
-        <h3>Machine Learning and AI Frameworks</h3>
-        <p>PyTorch | TensorFlow | Hugging Face | scikit-learn | FastAI | ONNX | Ollama</p>
+  <h3>Machine Learning and AI Frameworks</h3>
+  <p>PyTorch | TensorFlow | Hugging Face | scikit-learn | FastAI | ONNX | Ollama</p>
 
-        <h3>Vision-Language Models</h3>
-        <p>CLIP | DINO | BLIP | Segment Anything Model (SAM)</p>
+  <h3>Vision-Language Models</h3>
+  <p>CLIP | DINO | BLIP | Segment Anything Model (SAM)</p>
 
-        <h3>Data Science Tools</h3>
-        <p>NumPy | Pandas | Matplotlib | Seaborn | OpenCV | Plotly</p>
+  <h3>Data Science Tools</h3>
+  <p>NumPy | Pandas | Matplotlib | Seaborn | OpenCV | Plotly</p>
 
-        <h3>Databases</h3>
-        <p>MongoDB | SQLite | PostgreSQL | MySQL</p>
+  <h3>Databases</h3>
+  <p>MongoDB | SQLite | PostgreSQL | MySQL</p>
 
-        <h3>Programming Languages</h3>
-        <p>Python | C++ | JavaScript | TypeScript | Go</p>
+  <h3>Programming Languages</h3>
+  <p>Python | C++ | JavaScript | TypeScript | Go</p>
 
-        <h3>Tools and Platforms</h3>
-        <p>Docker | Git | GitHub | VS Code | Jupyter | Linux | AWS</p>
-    </div>
-</body>
-</html>
+  <h3>Tools and Platforms</h3>
+  <p>Docker | Git | GitHub | VS Code | Jupyter | Linux | AWS</p>
+</p>
+
 
 
 <!---
