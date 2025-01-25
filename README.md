@@ -16,27 +16,25 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katsuchi23&layout=compact&theme=radical)
 
-<p align="center">
-  <h2>💻 Tech Stack</h2>
+## 💻 Tech Stack
 
-  <h3>Machine Learning and AI Frameworks</h3>
-  <p>PyTorch | TensorFlow | Hugging Face | scikit-learn | FastAI | ONNX | Ollama</p>
+### Machine Learning and AI Frameworks
+PyTorch | TensorFlow | Hugging Face | scikit-learn | FastAI | ONNX | Ollama
 
-  <h3>Vision-Language Models</h3>
-  <p>CLIP | DINO | BLIP | Segment Anything Model (SAM)</p>
+### Vision-Language Models
+CLIP | DINO | BLIP | Segment Anything Model (SAM)
 
-  <h3>Data Science Tools</h3>
-  <p>NumPy | Pandas | Matplotlib | Seaborn | OpenCV | Plotly</p>
+### Data Science Tools
+NumPy | Pandas | Matplotlib | Seaborn | OpenCV | Plotly
 
-  <h3>Databases</h3>
-  <p>MongoDB | SQLite | PostgreSQL | MySQL</p>
+### Databases
+MongoDB | SQLite | PostgreSQL | MySQL
 
-  <h3>Programming Languages</h3>
-  <p>Python | C++ | JavaScript | TypeScript | Go</p>
+### Programming Languages
+Python | C++ | JavaScript | TypeScript | Go
 
-  <h3>Tools and Platforms</h3>
-  <p>Docker | Git | GitHub | VS Code | Jupyter | Linux | AWS</p>
-</p>
+### Tools and Platforms
+Docker | Git | GitHub | VS Code | Jupyter | Linux | AWS
 
 
 
