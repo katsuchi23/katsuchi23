@@ -8,12 +8,21 @@
 
 ---
 
-## 📊 GitHub Stats ## 💻 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katsuchi23&layout=compact&theme=radical)
+## 📊 GitHub Stats
 
 ![katsuchi23's GitHub stats](https://github-readme-stats.vercel.app/api?username=katsuchi23&show_icons=true&theme=radical)
 
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katsuchi23&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=katsuchi23&theme=radical&no-frame=true&no-bg=true)
+
+## 🚀 Contributions
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katsuchi23&theme=radical)
 
 
 
