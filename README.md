@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Katsuchi23
 
-- 💞️ I'm a 眷属, because towa-sama is the best
+- 🦊 I'm a 眷属とすこん部, because towa-sama and fubuki are the best 💖
 - 👀 I’m interested in **Machine Learning**, especially **LLMs (Large Language Models)** and **Computer Vision**. These fields are where magic meets science! ✨🤖
 - 🌱 I’m currently diving deep into **LLMs** and **VLMs (Vision-Language Models)**, learning how to make machines see and speak intelligently. 📚🖼️💬
 - ✨ I’m looking to collaborate on **LLM-related projects**! If you’re building something cool in this space, let’s team up. 🚀
