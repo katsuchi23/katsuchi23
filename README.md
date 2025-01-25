@@ -8,6 +8,8 @@
 
 ---
 
+<div align="center">
+
 ## 💻 Tech Stack
 
 ### Machine Learning and AI Frameworks
@@ -68,9 +70,13 @@
 </p>
 
 ## 📊 GitHub Stats
-
-![katsuchi23's GitHub stats](https://github-readme-stats.vercel.app/api?username=katsuchi23&show_icons=true&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=katsuchi23&show_icons=true&theme=radical" alt="katsuchi23's GitHub stats"/>
+</p>
 
 ## 💻 Top Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsuchi23&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katsuchi23&layout=compact&theme=radical)
+</div>
