@@ -8,13 +8,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats ## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katsuchi23&layout=compact&theme=radical)
 
 ![katsuchi23's GitHub stats](https://github-readme-stats.vercel.app/api?username=katsuchi23&show_icons=true&theme=radical)
 
-## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katsuchi23&layout=compact&theme=radical)
 
 
 <!---
