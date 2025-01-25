@@ -20,10 +20,6 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=katsuchi23&theme=radical&no-frame=true&no-bg=true)
 
-## 🚀 Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katsuchi23&theme=radical)
-
 
 
 <!---
